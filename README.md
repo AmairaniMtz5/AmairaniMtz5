@@ -41,12 +41,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/l0MXSlT2EKcAAAAM/batman-shock.gif"  />
-</div>
-
-###
-
-<div align="center">
   <h3> 🎵 Lo que estoy escuchando </h3>
   <a href="https://open.spotify.com/user/31u62mnbof5u4pubkeqqsdstdttm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u62mnbof5u4pubkeqqsdstdttm&unique=true" alt="Spotify recently played" />
