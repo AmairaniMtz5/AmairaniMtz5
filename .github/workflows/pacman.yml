@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Actualizado a v4 para soportar Node.js 24
         
       - name: Generate Pacman
         uses: platane/snk@v3
@@ -21,7 +21,7 @@ jobs:
             dist/pacman-contribution-graph-dark.svg?theme=pacman&palette=github-dark
             
       - name: Push Pacman to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4 # Actualizado a v4
         with:
           target_branch: pacman-output
           build_dir: dist
