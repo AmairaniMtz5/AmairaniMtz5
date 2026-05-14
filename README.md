@@ -1,5 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=false&text=%C2%A1Hola!%20Soy%20Amairani%20%F0%9F%91%8B&fontSize=56&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=false&text=%C2%A1Hola!%20Soy%20Amairani%20%F0%9F%91%8B&fontSize=56&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -30,11 +30,13 @@
 
 ###
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmairaniMtz5/AmairaniMtz5/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmairaniMtz5/AmairaniMtz5/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmairaniMtz5/AmairaniMtz5/pacman-output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 ###
 
@@ -44,8 +46,9 @@
 
 ###
 
-<div align="left">
-  <img src="?" alt="Widget with the current Spotify song"  />
+<div align="center">
+  <h3> 🎵 Lo que estoy escuchando ahora </h3>
+  <a href="https://open.spotify.com/user/31u62mnbof5u4pubkeqqsdstdttm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u62mnbof5u4pubkeqqsdstdttm&unique=true" alt="Spotify recently played" />
+  </a>
 </div>
-
-###
